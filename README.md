@@ -1,8 +1,4 @@
----
-tags: ruby advanced, kids, intro, authentication
-languages: ruby
-type: intro
----
+
 
 ### Students Will Be Able To...
 * Understand how bcrypt works to encrypt user passwords
